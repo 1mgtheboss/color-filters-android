@@ -1,4 +1,4 @@
 color-filters-android
 =====================
 
-Color Filters
+© 2014 Manojit Ghosh
